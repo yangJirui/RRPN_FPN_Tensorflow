@@ -95,13 +95,13 @@ python train.py
 
 ![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img216.jpg)
 
-![02](tools/inference_results/RGB-PanSharpen_AOI_4_Shanghai_img6172.jpg)
+![03](tools/inference_results/RGB-PanSharpen_AOI_4_Shanghai_img6172.jpg)
 
-![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img6009.jpg)
+![04](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img6009.jpg)
 
-![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img529.jpg)
+![05](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img529.jpg)
 
-![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img407.jpg)
+![06](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img407.jpg)
 
 
 
