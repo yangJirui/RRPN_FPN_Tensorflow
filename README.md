@@ -93,6 +93,18 @@ python train.py
 
 ![01](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img207.jpg)
 
+![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img216.jpg)
+
+![02](tools/inference_results/RGB-PanSharpen_AOI_4_Shanghai_img6172.jpg)
+
+![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img6009.jpg)
+
+![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img529.jpg)
+
+![02](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img407.jpg)
+
+
+
 
   [1]: https://arxiv.org/abs/1703.01086
   [2]: https://arxiv.org/abs/1612.03144
