@@ -91,7 +91,7 @@ python train.py
 ---
 ##**Some Test Results**
 
-     
+![01](tools/inference_results/RGB-PanSharpen_AOI_2_Vegas_img207.jpg)
 
 
   [1]: https://arxiv.org/abs/1703.01086
